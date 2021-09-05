@@ -1,6 +1,6 @@
 # PHP 7+ 프로그래밍: 객체지향
 
-[[인프런]PHP 7+ 프로그래밍: 객체지향](https://www.inflearn.com/course/php7-oop) 예제코드입니다.
+[[인프런] PHP 7+ 프로그래밍: 객체지향](https://www.inflearn.com/course/php7-oop) 예제코드입니다.
 
 * *php >= 7.4*
 * Extended Coding Style: [PSR-12](https://www.php-fig.org/psr/psr-12/)

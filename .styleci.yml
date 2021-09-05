@@ -1,7 +1,0 @@
-preset: PSR12
-risky: true
-finder:
-  exclude:
-    - node_modules
-    - vendor
-  name: "*.php"
