@@ -1,9 +1,5 @@
 {
-  "name": "phpblog",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pronist/phpblog.git"
-  },
+  "name": "php7-oop",
   "scripts": {
     "lint": "eslint public/app.js"
   },

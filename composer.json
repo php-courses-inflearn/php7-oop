@@ -1,5 +1,5 @@
 {
-    "name": "pronist/phplec",
+    "name": "php-courses-inflearn/php7-oop",
     "scripts":{
         "lint": "phpcs -n --extensions=php --ignore=vendor ."
     },
