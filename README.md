@@ -3,10 +3,6 @@
 * *php >= 7.4*
 * Extended Coding Style: [PSR-12](https://www.php-fig.org/psr/psr-12/)
 
-<p>
-    <img src="https://github.styleci.io/repos/397977620/shield?branch=main" alt="StyleCI">
-</p>
-
 1. [PHP는 객체지향의 시대를 맞이했다.](http://docs.php.net/manual/en/langref.php)
 
     * [Basics](https://github.com/php-courses-inflearn/php7-oop/tree/main/ch1/Basics)
