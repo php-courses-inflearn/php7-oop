@@ -1,0 +1,9 @@
+{
+    "name": "pronist/phplec",
+    "scripts":{
+        "lint": "phpcs"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "3.5.3"
+    }
+}

@@ -1,0 +1,11 @@
+language: php
+os:
+  - linux
+php:
+  - 7.4
+install:
+  - npm install --only=dev
+  - composer self-update
+  - travis_retry composer install --no-interaction --no-scripts --prefer-source
+script:
+ - composer run lint
