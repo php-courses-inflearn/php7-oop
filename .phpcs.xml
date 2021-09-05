@@ -10,8 +10,6 @@
     <file>ch5</file>
     <file>ch6</file>
 
-    <exclude-pattern>vendor</exclude-pattern>
-
     <rule ref="PSR1">
         <exclude name="PSR1.Classes.ClassDeclaration"></exclude>
         <exclude name="PSR1.Methods.CamelCapsMethodName.NotCamelCaps"></exclude>

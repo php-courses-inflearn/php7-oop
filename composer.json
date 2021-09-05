@@ -1,7 +1,7 @@
 {
     "name": "pronist/phplec",
     "scripts":{
-        "lint": "phpcs"
+        "lint": "phpcs -n --extensions=php --ignore=vendor ."
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "3.5.3"
